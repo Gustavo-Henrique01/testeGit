@@ -1,2 +1,3 @@
-# testeGit
- primeiro repositorio de versão
+# testando o git
+ primeiro repositorio de versão 
+ primeiro teste
